@@ -22,7 +22,6 @@ const Nou = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Node, Tailwind],
-
 }
 ```
 <h3>Where to find me</h3>
